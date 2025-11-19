@@ -1,0 +1,8 @@
+theme = Tomorrow Night
+
+macos-titlebar-style = hidden
+confirm-close-surface = false
+
+font-family = Maple Mono
+font-style = Light
+font-size = 17
