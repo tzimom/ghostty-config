@@ -1,4 +1,4 @@
-theme = Tomorrow Night
+theme = Catppuccin Macchiato
 
 macos-titlebar-style = hidden
 confirm-close-surface = false
